@@ -1,0 +1,309 @@
+.verh{
+	position:absolute;
+	width:100%;
+	height:50px;
+	background:black;
+	left:0px;
+	top:0px;
+}
+.kykki{
+	color:white;
+	top:13px;
+	left:100px;
+	font-size:20px;
+	position:absolute;
+}
+.vhod{
+	color:white;
+	top:13px;
+	left:1100px;
+	font-size:20px;
+	position:absolute;
+}
+.regiser{
+	color:white;
+	top:13px;
+	left:1200px;
+	font-size:20px;
+	position:absolute;
+}
+.poisk{
+	position:absolute;
+	left:800px;
+	top:13px;
+}
+button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 21px;
+  height: 21px;
+  border: none;
+  background: #7BA7AB;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 13px;
+  color: #F9F0DA;
+}
+.fon{
+	position:fixed;
+	width:100%;
+	height:100%;
+	left:0px;
+	z-index:-50;
+}
+#menuverx2{
+	top:50px;
+	position:absolute;
+	width:1100px;
+	left:150px;
+}
+#menuverx2 ul{
+	position:absolute;
+	margin:0;
+	padding:0;
+	list-style:none;
+	height:0px;
+}
+#menuverx2 ul li{
+	float:left;
+}
+#menuverx2 ul li a{
+	color:white;
+	display:block;
+	padding:0 40px;
+	text-transform:uppercase;
+	text-decoration:none;
+	line-height:50px;
+}
+#menuverx2 ul li a:hover{
+	background:grey;
+}
+
+.centerPro{
+	position:relative;
+	width:1200px;
+	height:5800px;
+	top:150px;
+	left:50px;
+	background:#FFE4B5;
+}
+.qwe img{
+	position:absolute;
+	width:500px;
+	height:360px;
+	background:green;
+	left:630px;
+	top:70px;
+}
+.opis{
+	position:absolute;
+	width:425px;
+	height:425px;
+	background:gray;
+	top:70px;
+	left:100px;
+}
+td{
+	border:4px double black;
+	color:white;
+	background:black;
+	height:30px;
+	width:200px;
+	text-align:center;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+}
+.reeq a{
+	color:black;
+}
+.qwe2:hover, .rty2:hover, .uio2:hover, .asd2:hover, .reeq:hover{
+	background:orange;
+	transition:0.5s;
+	cursor:pointer;
+}
+.reeq{
+	position:absolute;
+	color:black;
+	left:40%;
+	top:10px;
+	padding-top:5px; 
+	font-size:25px;
+	width:260px;
+	height:50px;
+	text-align: center;
+}
+.sposob{
+	position:relative;
+	top:-200px;
+}
+.spo{
+	position:absolute;
+	top:720px;
+	left:500px;
+	font-size:20px;
+	color:black;
+}
+.shag1{
+	position:absolute;
+	top:750px;
+	left:300px;
+	
+}
+.opisanie{
+	position:absolute;
+	top:1150px;
+	color:black;
+	left:140px;
+	font-size:20px;
+}
+.shag2{
+	position:absolute;
+	top:1250px;
+	left:300px;
+}
+.opisanie2{
+	position:absolute;
+	top:1650px;
+	color:black;
+	left:90px;
+	font-size:20px;
+}
+.shag3{
+	position:absolute;
+	top:1700px;
+	left:300px;
+}
+.opisanie3{
+	position:absolute;
+	top:2100px;
+	color:black;
+	left:50px;
+	font-size:20px;
+}
+.shag4{
+	position:absolute;
+	top:2200px;
+	left:300px;
+}
+.opisanie4{
+	position:absolute;
+	top:2600px;
+	color:black;
+	left:70px;
+	font-size:20px;
+}
+.shag5{
+	position:absolute;
+	top:2650px;
+	left:300px;
+}
+.opisanie5{
+	position:absolute;
+	top:3050px;
+	color:black;
+	left:70px;
+	font-size:20px;
+}
+.shag6{
+	position:absolute;
+	top:3100px;
+	left:300px;
+}
+.opisanie6{
+	position:absolute;
+	top:3500px;
+	color:black;
+	left:70px;
+	font-size:20px;
+}
+.shag7{
+	position:absolute;
+	top:3550px;
+	left:300px;
+}
+.opisanie7{
+	position:absolute;
+	top:3950px;
+	color:black;
+	left:100px;
+	font-size:20px;
+}
+.shag8{
+	position:absolute;
+	top:4000px;
+	left:300px;
+}
+.opisanie8{
+	position:absolute;
+	top:4400px;
+	color:black;
+	left:100px;
+	font-size:20px;
+}
+.shag9{
+	position:absolute;
+	top:4450px;
+	left:300px;
+}
+.opisanie9{
+	position:absolute;
+	top:4850px;
+	color:black;
+	left:200px;
+	font-size:20px;
+}
+.shag10{
+	position:absolute;
+	top:4900px;
+	left:300px;
+}
+.opisanie10{
+	position:absolute;
+	top:5300px;
+	color:black;
+	left:100px;
+	font-size:20px;
+}
+ .footer1{
+	 position:absolute;
+	 height:50px;
+	 width:100%;
+	 top:6000px;
+	 background:black;
+	 color:white;
+	 left:0px;
+
+ }
+ .block {
+	 position:absolute;
+	 top:15px;
+	 left:200px;
+ }
+ .vk img{
+	 position:absolute;
+	 width:90px;
+	 height:50px;
+	 top:-15px;
+	 left:800px;
+ }
+ .odnok img{
+	 position:absolute;
+	 width:70px;
+	 height:50px;
+	 top:-15px;
+	 left:900px;
+ }
+ .video{
+	position:absolute;
+	top:5150px;
+	width:1200px;
+	height:600px;
+}

@@ -1,0 +1,249 @@
+.verh{
+	position:absolute;
+	width:100%;
+	height:50px;
+	background:black;
+	left:0px;
+	top:0px;
+}
+.kykki{
+	color:white;
+	top:13px;
+	left:100px;
+	font-size:20px;
+	position:absolute;
+}
+.vhod{
+	color:white;
+	top:13px;
+	left:1100px;
+	font-size:20px;
+	position:absolute;
+}
+.regiser{
+	color:white;
+	top:13px;
+	left:1200px;
+	font-size:20px;
+	position:absolute;
+}
+.poisk{
+	position:absolute;
+	left:800px;
+	top:13px;
+}
+button {
+  position: absolute; 
+  top: 0;
+  right: 0px;
+  width: 21px;
+  height: 21px;
+  border: none;
+  background: #7BA7AB;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 13px;
+  color: #F9F0DA;
+}
+.fon{
+	position:fixed;
+	width:100%;
+	height:100%;
+	left:0px;
+	z-index:-50;
+}
+#menuverx2{
+	top:50px;
+	position:absolute;
+	width:1100px;
+	left:150px;
+}
+#menuverx2 ul{
+	position:absolute;
+	margin:0;
+	padding:0;
+	list-style:none;
+	height:0px;
+}
+#menuverx2 ul li{
+	float:left;
+}
+#menuverx2 ul li a{
+	color:white;
+	display:block;
+	padding:0 40px;
+	text-transform:uppercase;
+	text-decoration:none;
+	line-height:50px;
+}
+#menuverx2 ul li a:hover{
+	background:grey;
+}
+
+.centerPro{
+	position:relative;
+	width:1200px;
+	height:500px;
+	top:150px;
+	left:50px;
+	background:#333333;
+}
+.qwe img{
+	position:absolute;
+	width:260px;
+	height:360px;
+	background:green;
+	left:20px;
+	top:70px;
+}
+.rty img{
+	position:absolute;
+	width:260px;
+	height:360px;
+	background:green;
+	left:320px;
+	top:70px;
+}
+.uio img{
+	position:absolute;
+	width:260px;
+	height:360px;
+	background:green;
+	left:620px;
+	top:70px;
+}
+.asd img{
+	position:absolute;
+	width:260px;
+	height:360px;
+	background:green;
+	left:920px;
+	top:70px;
+}
+.qwe2{
+	position:absolute;
+	width:260px;
+	height:50px;
+	background:black;
+	left:20px;
+	top:430px;
+	color:white;
+	text-align: center;
+	padding-top:5px; 
+	font-size:25px;
+}
+.rty2{
+	position:absolute;
+	width:260px;
+	height:50px;
+	background:black;
+	left:320px;
+	top:430px;
+	color:white;
+	text-align: center;
+	padding-top:5px; 
+	font-size:25px;
+}
+.uio2{
+	position:absolute;
+	width:260px;
+	height:50px;
+	background:black;
+	left:620px;
+	top:430px;
+	color:white;
+	text-align: center;
+	padding-top:5px; 
+	font-size:25px;
+}
+.asd2{
+	position:absolute;
+	width:260px;
+	height:50px;
+	background:black;
+	left:920px;
+	top:430px;
+	color:white;
+	text-align: center;
+	padding-top:5px; 
+	font-size:25px;
+	
+	
+}
+a{
+	color:white;
+	text-decoration:none;
+}
+.qwe2:hover, .rty2:hover, .uio2:hover, .asd2:hover, .reeq:hover{
+	background:orange;
+	transition:0.5s;
+	cursor:pointer;
+}
+.reeq{
+	position:absolute;
+	color:white;
+	left:40%;
+	top:10px;
+	padding-top:5px; 
+	font-size:25px;
+	width:260px;
+	height:50px;
+	text-align: center;
+}
+ .centerPro2{
+	position:relative;
+	width:1200px;
+	height:500px;
+	top:130px;
+	left:50px;
+	background:#333333;
+}
+ .centerPro3{
+	position:relative;
+	width:1200px;
+	height:500px;
+	top:130px;
+	left:50px;
+	background:#333333;
+}
+.centerPro4{
+	position:relative;
+	width:1200px;
+	height:500px;
+	top:130px;
+	left:50px;
+	background:#333333;
+}
+ .footer1{
+	 position:absolute;
+	 height:50px;
+	 width:100%;
+	 top:2200px;
+	 background:black;
+	 color:white;
+	 left:0px;
+
+ }
+ .block {
+	 position:absolute;
+	 top:15px;
+	 left:200px;
+ }
+ .vk img{
+	 position:absolute;
+	 width:90px;
+	 height:50px;
+	 top:-15px;
+	 left:800px;
+ }
+ .odnok img{
+	 position:absolute;
+	 width:70px;
+	 height:50px;
+	 top:-15px;
+	 left:900px;
+ }
